@@ -1,3 +1,3 @@
 # Projects-Code
 
-## Single repo for saving multiple projects with source code
+## Single repo for saving multiple mini projects 
